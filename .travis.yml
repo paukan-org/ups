@@ -1,0 +1,8 @@
+language: node_js
+deploy:
+  provider: npm
+  email: paukan.control@gmail.com
+  api_key:
+    secure: MdFQ8ChGi4wTQ5sy0PhnLVG/A7i+dlHAGL9hEWWDJf+bOPVJwnHBDgwjMa5iGSW9HrV9rXVD7Qo8APn3n5H47xZ369qOZE4z3D03P9SuRiO1HDs3n7RkkKcgOJBopYmKd1WoR3bomuw5p/hrofXBLuKaemzfBaHux8i2zToXYdE=
+  on:
+    repo: paukan-org/paukan-core

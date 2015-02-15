@@ -1,0 +1,8 @@
+{
+    "id": "ups",
+    "device": {
+        "apcaccessBinary": "/sbin/apcaccess",
+        "apcupsdEventFile": "/var/log/apcupsd.events",
+        "pollInterval": 5000
+    }
+}

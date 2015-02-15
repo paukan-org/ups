@@ -1,0 +1,5 @@
+node_modules/
+debug/
+.DS_Store
+test-report.xml
+npm-debug.log
