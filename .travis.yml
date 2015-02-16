@@ -1,5 +1,8 @@
 language: node_js
 deploy:
   provider: npm
+  email: paukan.control@gmail.com
   api_key:
     secure: $DEPLOY
+  on:
+    repo: paukan-org/ups
