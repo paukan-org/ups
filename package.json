@@ -4,7 +4,7 @@
   "description": "External power supply listener",
   "repository": {
     "type": "git",
-    "url": "https://github.com/paukan-org/ups"
+    "url": "git@github.com:paukan-org/ups.git"
   },
   "dependencies": {
     "paukan-core": "*",
@@ -18,7 +18,7 @@
   "scripts": {
       "test": "./node_modules/.bin/mocha --bail"
   },
-  "homepage": "git@github.com:paukan-org/ups.git",
+  "homepage": "https://github.com/paukan-org/ups",
   "author": "Andrey Afoninskiy <vkfont@gmail.com>",
   "license": "Apache"
 }
