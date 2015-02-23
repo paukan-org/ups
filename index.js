@@ -14,3 +14,4 @@ service.network.local.on('online', function () {
         console.log('Device "%s" loaded, available states:', device.id, device.states);
     });
 });
+service.init();
