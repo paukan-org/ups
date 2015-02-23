@@ -1,6 +1,6 @@
 {
   "name": "paukan-ups",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "External power supply listener",
   "repository": {
     "type": "git",
